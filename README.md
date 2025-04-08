@@ -1,1 +1,1 @@
-# SwaggerUIDotNet9
+# SwaggerUIDotNet
